@@ -21,7 +21,7 @@ int main()
     printf("this is %c\n",grade);
     printf("This is another main-like function.\n");
     printf("%f\n", 8.9);
-    printf("%f\n", 4.5+5.2);
+    printf("%f\n", 4.5+5.7);
     printf("%f\n", 4.5*5.2);
     printf("%f\n", 4.5/5.2);
     printf("%f\n", 4+5.2);
