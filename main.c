@@ -26,7 +26,7 @@ int main()
     printf("%f\n", 4.5/5.2);
     printf("%f\n", 4+5.2);
     printf("%f\n", pow(2,3));
-    printf("%f\n", sqrt(276));
+    printf("%f\n", sqrt(81));
     printf("%f\n", ceil(2.5678));
     printf("%f\n", floor(45.776));
     /*direct answer but no operation is shown in the run code*/
